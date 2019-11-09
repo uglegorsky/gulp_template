@@ -1,5 +1,5 @@
 <pre>
-	git clone https://github.com/uglegorsky/gulp-template.git
+	git clone https://github.com/uglegorsky/gulp_template.git
 </pre>
 
 <ol>
